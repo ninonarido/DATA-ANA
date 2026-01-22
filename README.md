@@ -1,4 +1,4 @@
-# dataana
+# DATA-ANA
 Data Analytics
 
 Prepared by: Prof. Nino Narido
